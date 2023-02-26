@@ -1,0 +1,419 @@
+12/28/2022 20:54:36 Proje çalıştı
+12/28/2022 20:54:41 Home/Index sayfasına erişim sağlandı
+12/28/2022 20:54:41 Sayı Değeri: 0
+12/28/2022 20:54:41 Sayı Değeri: 1
+12/28/2022 20:54:41 Sayı Değeri: 2
+12/28/2022 20:54:41 Sayı Değeri: 3
+12/28/2022 20:54:41 Sayı Değeri: 4
+12/28/2022 20:54:41 Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 30
+12/28/2022 20:54:42 HTTP "GET" "/" responded 200 in 922.8968 ms
+12/28/2022 20:54:48 Home/Index sayfasına erişim sağlandı
+12/28/2022 20:54:48 Sayı Değeri: 0
+12/28/2022 20:54:48 Sayı Değeri: 1
+12/28/2022 20:54:48 Sayı Değeri: 2
+12/28/2022 20:54:48 Sayı Değeri: 3
+12/28/2022 20:54:48 Sayı Değeri: 4
+12/28/2022 20:54:48 Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 30
+12/28/2022 20:54:48 HTTP "GET" "/" responded 200 in 56.6555 ms
+12/28/2022 20:54:49 Home/Privacy sayfasındasın!
+12/28/2022 20:54:49 HTTP "GET" "/Home/Privacy" responded 200 in 14.2861 ms
+12/28/2022 20:54:51 Home/Index sayfasına erişim sağlandı
+12/28/2022 20:54:51 Sayı Değeri: 0
+12/28/2022 20:54:51 Sayı Değeri: 1
+12/28/2022 20:54:51 Sayı Değeri: 2
+12/28/2022 20:54:51 Sayı Değeri: 3
+12/28/2022 20:54:51 Sayı Değeri: 4
+12/28/2022 20:54:51 Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 30
+12/28/2022 20:54:51 HTTP "GET" "/" responded 200 in 68.3556 ms
+12/28/2022 20:54:52 Home/Index sayfasına erişim sağlandı
+12/28/2022 20:54:52 Sayı Değeri: 0
+12/28/2022 20:54:52 Sayı Değeri: 1
+12/28/2022 20:54:52 Sayı Değeri: 2
+12/28/2022 20:54:52 Sayı Değeri: 3
+12/28/2022 20:54:52 Sayı Değeri: 4
+12/28/2022 20:54:52 Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 30
+12/28/2022 20:54:52 HTTP "GET" "/" responded 200 in 48.5446 ms
+12/28/2022 20:54:55 Home/Index sayfasına erişim sağlandı
+12/28/2022 20:54:55 Sayı Değeri: 0
+12/28/2022 20:54:55 Sayı Değeri: 1
+12/28/2022 20:54:55 Sayı Değeri: 2
+12/28/2022 20:54:55 Sayı Değeri: 3
+12/28/2022 20:54:55 Sayı Değeri: 4
+12/28/2022 20:54:55 Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 30
+12/28/2022 20:54:55 HTTP "GET" "/Home/Index" responded 200 in 59.0222 ms
+12/28/2022 20:57:06 Home/Index sayfasına erişim sağlandı
+12/28/2022 20:57:06 Sayı Değeri: 0
+12/28/2022 20:57:06 Sayı Değeri: 1
+12/28/2022 20:57:06 Sayı Değeri: 2
+12/28/2022 20:57:06 Sayı Değeri: 3
+12/28/2022 20:57:06 Sayı Değeri: 4
+12/28/2022 20:57:06 Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 30
+12/28/2022 20:57:07 HTTP "GET" "/" responded 200 in 674.9852 ms
+12/28/2022 20:57:13 Home/Index sayfasına erişim sağlandı
+12/28/2022 20:57:13 Sayı Değeri: 0
+12/28/2022 20:57:13 Sayı Değeri: 1
+12/28/2022 20:57:13 Sayı Değeri: 2
+12/28/2022 20:57:13 Sayı Değeri: 3
+12/28/2022 20:57:13 Sayı Değeri: 4
+12/28/2022 20:57:13 Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 30
+12/28/2022 20:57:13 HTTP "GET" "/" responded 200 in 87.4444 ms
+12/28/2022 20:57:14 Home/Privacy sayfasındasın!
+12/28/2022 20:57:14 HTTP "GET" "/Home/Privacy" responded 200 in 17.3731 ms
+12/28/2022 20:57:15 Home/Index sayfasına erişim sağlandı
+12/28/2022 20:57:15 Sayı Değeri: 0
+12/28/2022 20:57:15 Sayı Değeri: 1
+12/28/2022 20:57:15 Sayı Değeri: 2
+12/28/2022 20:57:15 Sayı Değeri: 3
+12/28/2022 20:57:15 Sayı Değeri: 4
+12/28/2022 20:57:15 Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 30
+12/28/2022 20:57:15 HTTP "GET" "/" responded 200 in 52.2555 ms
+12/28/2022 20:57:18 Home/Index sayfasına erişim sağlandı
+12/28/2022 20:57:18 Sayı Değeri: 0
+12/28/2022 20:57:18 Sayı Değeri: 1
+12/28/2022 20:57:18 Sayı Değeri: 2
+12/28/2022 20:57:18 Sayı Değeri: 3
+12/28/2022 20:57:18 Sayı Değeri: 4
+12/28/2022 20:57:18 Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 30
+12/28/2022 20:57:18 HTTP "GET" "/Home/Index" responded 200 in 58.1251 ms
+12/28/2022 21:20:53 Proje Çalıştırıldı
+12/28/2022 21:20:55 Home/Index sayfasına erişim sağlandı
+12/28/2022 21:20:55 Sayı Değeri: 0
+12/28/2022 21:20:55 Sayı Değeri: 1
+12/28/2022 21:20:55 Sayı Değeri: 2
+12/28/2022 21:20:55 Sayı Değeri: 3
+12/28/2022 21:20:55 Sayı Değeri: 4
+12/28/2022 21:20:55  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 30
+12/28/2022 21:20:55 HTTP "GET" "/" responded 200 in 529.1539 ms
+12/28/2022 21:34:25 Proje Çalıştırıldı
+12/28/2022 21:34:27 Home/Index sayfasına erişim sağlandı
+12/28/2022 21:34:27 Sayı Değeri: 0
+12/28/2022 21:34:27 Sayı Değeri: 1
+12/28/2022 21:34:27 Sayı Değeri: 2
+12/28/2022 21:34:27 Sayı Değeri: 3
+12/28/2022 21:34:27 Sayı Değeri: 4
+12/28/2022 21:34:27  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 31
+12/28/2022 21:34:27 HTTP "GET" "/" responded 200 in 495.0264 ms
+12/28/2022 21:34:33 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/28/2022 21:34:33 Home/Privacy sayfasındasın!
+12/28/2022 21:34:33 HTTP "GET" "/Home/Privacy" responded 200 in 34.8154 ms
+12/28/2022 22:53:20 Proje Çalıştırıldı
+12/28/2022 22:53:23 Home/Index sayfasına erişim sağlandı
+12/28/2022 22:53:23 Sayı Değeri: 0
+12/28/2022 22:53:23 Sayı Değeri: 1
+12/28/2022 22:53:23 Sayı Değeri: 2
+12/28/2022 22:53:23 Sayı Değeri: 3
+12/28/2022 22:53:23 Sayı Değeri: 4
+12/28/2022 22:53:23  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 31
+12/28/2022 22:53:24 HTTP "GET" "/" responded 200 in 1051.9459 ms
+12/28/2022 22:53:31 Home/Index sayfasına erişim sağlandı
+12/28/2022 22:53:31 Sayı Değeri: 0
+12/28/2022 22:53:31 Sayı Değeri: 1
+12/28/2022 22:53:31 Sayı Değeri: 2
+12/28/2022 22:53:31 Sayı Değeri: 3
+12/28/2022 22:53:31 Sayı Değeri: 4
+12/28/2022 22:53:31  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 31
+12/28/2022 22:53:31 HTTP "GET" "/" responded 200 in 54.2078 ms
+12/28/2022 22:53:32 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/28/2022 22:53:32 Home/Privacy sayfasındasın!
+12/28/2022 22:53:32 HTTP "GET" "/Home/Privacy" responded 200 in 60.5076 ms
+12/28/2022 22:53:35 Home/Index sayfasına erişim sağlandı
+12/28/2022 22:53:35 Sayı Değeri: 0
+12/28/2022 22:53:35 Sayı Değeri: 1
+12/28/2022 22:53:35 Sayı Değeri: 2
+12/28/2022 22:53:35 Sayı Değeri: 3
+12/28/2022 22:53:35 Sayı Değeri: 4
+12/28/2022 22:53:35  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 31
+12/28/2022 22:53:35 HTTP "GET" "/" responded 200 in 48.6215 ms
+12/28/2022 22:53:36 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/28/2022 22:53:36 Home/Privacy sayfasındasın!
+12/28/2022 22:53:36 HTTP "GET" "/Home/Privacy" responded 200 in 5.4335 ms
+12/30/2022 16:52:05 Proje Çalıştırıldı
+12/30/2022 16:52:12 Home/Index sayfasına erişim sağlandı
+12/30/2022 16:52:12 Sayı Değeri: 0
+12/30/2022 16:52:12 Sayı Değeri: 1
+12/30/2022 16:52:12 Sayı Değeri: 2
+12/30/2022 16:52:12 Sayı Değeri: 3
+12/30/2022 16:52:12 Sayı Değeri: 4
+12/30/2022 16:52:12  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 31
+12/30/2022 16:52:13 HTTP "GET" "/" responded 200 in 1983.9279 ms
+12/30/2022 16:52:16 Home/Index sayfasına erişim sağlandı
+12/30/2022 16:52:16 Sayı Değeri: 0
+12/30/2022 16:52:16 Sayı Değeri: 1
+12/30/2022 16:52:16 Sayı Değeri: 2
+12/30/2022 16:52:16 Sayı Değeri: 3
+12/30/2022 16:52:16 Sayı Değeri: 4
+12/30/2022 16:52:16  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 31
+12/30/2022 16:52:16 HTTP "GET" "/" responded 200 in 113.7634 ms
+12/30/2022 16:52:17 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 16:52:17 Home/Privacy sayfasındasın!
+12/30/2022 16:52:17 HTTP "GET" "/Home/Privacy" responded 200 in 155.0377 ms
+12/30/2022 16:52:20 Home/Index sayfasına erişim sağlandı
+12/30/2022 16:52:20 Sayı Değeri: 0
+12/30/2022 16:52:20 Sayı Değeri: 1
+12/30/2022 16:52:20 Sayı Değeri: 2
+12/30/2022 16:52:20 Sayı Değeri: 3
+12/30/2022 16:52:20 Sayı Değeri: 4
+12/30/2022 16:52:20  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 31
+12/30/2022 16:52:20 HTTP "GET" "/" responded 200 in 57.6664 ms
+12/30/2022 16:52:21 Home/Index sayfasına erişim sağlandı
+12/30/2022 16:52:21 Sayı Değeri: 0
+12/30/2022 16:52:21 Sayı Değeri: 1
+12/30/2022 16:52:21 Sayı Değeri: 2
+12/30/2022 16:52:21 Sayı Değeri: 3
+12/30/2022 16:52:21 Sayı Değeri: 4
+12/30/2022 16:52:21  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 31
+12/30/2022 16:52:21 HTTP "GET" "/" responded 200 in 45.5525 ms
+12/30/2022 17:46:28 Proje Çalıştırıldı
+12/30/2022 17:46:31 Home/Index sayfasına erişim sağlandı
+12/30/2022 17:46:31 Sayı Değeri: 0
+12/30/2022 17:46:31 Sayı Değeri: 1
+12/30/2022 17:46:31 Sayı Değeri: 2
+12/30/2022 17:46:31 Sayı Değeri: 3
+12/30/2022 17:46:31 Sayı Değeri: 4
+12/30/2022 17:46:31  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 17:46:32 HTTP "GET" "/" responded 200 in 955.8575 ms
+12/30/2022 17:46:46 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 17:46:46 Home/Privacy sayfasındasın!
+12/30/2022 17:46:46 HTTP "GET" "/Home/Privacy" responded 200 in 59.5792 ms
+12/30/2022 17:48:03 Home/Index sayfasına erişim sağlandı
+12/30/2022 17:48:03 Sayı Değeri: 0
+12/30/2022 17:48:03 Sayı Değeri: 1
+12/30/2022 17:48:03 Sayı Değeri: 2
+12/30/2022 17:48:03 Sayı Değeri: 3
+12/30/2022 17:48:03 Sayı Değeri: 4
+12/30/2022 17:48:03  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 17:48:03 HTTP "GET" "/" responded 200 in 74.6640 ms
+12/30/2022 17:48:05 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 17:48:05 Home/Privacy sayfasındasın!
+12/30/2022 17:48:05 HTTP "GET" "/Home/Privacy" responded 200 in 12.6439 ms
+12/30/2022 17:48:08 Home/Index sayfasına erişim sağlandı
+12/30/2022 17:48:08 Sayı Değeri: 0
+12/30/2022 17:48:08 Sayı Değeri: 1
+12/30/2022 17:48:08 Sayı Değeri: 2
+12/30/2022 17:48:08 Sayı Değeri: 3
+12/30/2022 17:48:08 Sayı Değeri: 4
+12/30/2022 17:48:08  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 17:48:08 HTTP "GET" "/" responded 200 in 53.5919 ms
+12/30/2022 17:48:09 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 17:48:09 Home/Privacy sayfasındasın!
+12/30/2022 17:48:09 HTTP "GET" "/Home/Privacy" responded 200 in 1.2699 ms
+12/30/2022 17:50:29 Proje Çalıştırıldı
+12/30/2022 17:50:32 Home/Index sayfasına erişim sağlandı
+12/30/2022 17:50:32 Sayı Değeri: 0
+12/30/2022 17:50:32 Sayı Değeri: 1
+12/30/2022 17:50:32 Sayı Değeri: 2
+12/30/2022 17:50:32 Sayı Değeri: 3
+12/30/2022 17:50:32 Sayı Değeri: 4
+12/30/2022 17:50:33  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 17:50:33 HTTP "GET" "/" responded 200 in 918.9707 ms
+12/30/2022 17:50:47 Home/Index sayfasına erişim sağlandı
+12/30/2022 17:50:47 Sayı Değeri: 0
+12/30/2022 17:50:47 Sayı Değeri: 1
+12/30/2022 17:50:47 Sayı Değeri: 2
+12/30/2022 17:50:47 Sayı Değeri: 3
+12/30/2022 17:50:47 Sayı Değeri: 4
+12/30/2022 17:50:47  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 17:50:47 HTTP "GET" "/Home/Index" responded 200 in 64.9091 ms
+12/30/2022 17:51:07 Home/Index sayfasına erişim sağlandı
+12/30/2022 17:51:07 Sayı Değeri: 0
+12/30/2022 17:51:07 Sayı Değeri: 1
+12/30/2022 17:51:07 Sayı Değeri: 2
+12/30/2022 17:51:07 Sayı Değeri: 3
+12/30/2022 17:51:07 Sayı Değeri: 4
+12/30/2022 17:51:07  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 17:51:07 HTTP "GET" "/" responded 200 in 80.3420 ms
+12/30/2022 17:51:08 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 17:51:08 önemli hata mesajı
+12/30/2022 17:51:08 Home/Privacy sayfasındasın!
+12/30/2022 17:51:08 HTTP "GET" "/Home/Privacy" responded 200 in 33.8705 ms
+12/30/2022 17:54:20 Proje Çalıştırıldı
+12/30/2022 17:54:23 Home/Index sayfasına erişim sağlandı
+12/30/2022 17:54:23 Sayı Değeri: 0
+12/30/2022 17:54:23 Sayı Değeri: 1
+12/30/2022 17:54:23 Sayı Değeri: 2
+12/30/2022 17:54:23 Sayı Değeri: 3
+12/30/2022 17:54:23 Sayı Değeri: 4
+12/30/2022 17:54:23  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 17:54:24 HTTP "GET" "/" responded 200 in 552.1598 ms
+12/30/2022 17:54:44 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 17:54:44 önemli hata mesajı
+12/30/2022 17:54:44 Home/Privacy sayfasındasın!
+12/30/2022 17:54:44 HTTP "GET" "/Home/Privacy" responded 200 in 47.5211 ms
+12/30/2022 17:54:46 Home/Index sayfasına erişim sağlandı
+12/30/2022 17:54:46 Sayı Değeri: 0
+12/30/2022 17:54:46 Sayı Değeri: 1
+12/30/2022 17:54:46 Sayı Değeri: 2
+12/30/2022 17:54:46 Sayı Değeri: 3
+12/30/2022 17:54:46 Sayı Değeri: 4
+12/30/2022 17:54:46  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 17:54:46 HTTP "GET" "/" responded 200 in 66.0355 ms
+12/30/2022 18:02:25 Proje Çalıştırıldı
+12/30/2022 18:02:27 Home/Index sayfasına erişim sağlandı
+12/30/2022 18:02:27 Sayı Değeri: 0
+12/30/2022 18:02:27 Sayı Değeri: 1
+12/30/2022 18:02:27 Sayı Değeri: 2
+12/30/2022 18:02:27 Sayı Değeri: 3
+12/30/2022 18:02:27 Sayı Değeri: 4
+12/30/2022 18:02:27  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 18:02:28 HTTP "GET" "/" responded 200 in 794.2260 ms
+12/30/2022 18:02:31 Home/Index sayfasına erişim sağlandı
+12/30/2022 18:02:31 Sayı Değeri: 0
+12/30/2022 18:02:31 Sayı Değeri: 1
+12/30/2022 18:02:31 Sayı Değeri: 2
+12/30/2022 18:02:31 Sayı Değeri: 3
+12/30/2022 18:02:31 Sayı Değeri: 4
+12/30/2022 18:02:31  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 18:02:31 HTTP "GET" "/" responded 200 in 100.4901 ms
+12/30/2022 18:02:31 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 18:02:31 Home/Privacy sayfasındasın!
+12/30/2022 18:02:31 HTTP "GET" "/Home/Privacy" responded 200 in 32.5529 ms
+12/30/2022 18:03:09 Home/Index sayfasına erişim sağlandı
+12/30/2022 18:03:09 Sayı Değeri: 0
+12/30/2022 18:03:09 Sayı Değeri: 1
+12/30/2022 18:03:09 Sayı Değeri: 2
+12/30/2022 18:03:09 Sayı Değeri: 3
+12/30/2022 18:03:09 Sayı Değeri: 4
+12/30/2022 18:03:09  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 18:03:09 HTTP "GET" "/" responded 200 in 48.7240 ms
+12/30/2022 18:03:10 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 18:03:10 Home/Privacy sayfasındasın!
+12/30/2022 18:03:10 HTTP "GET" "/Home/Privacy" responded 200 in 5.9836 ms
+12/30/2022 18:03:16 Home/Index sayfasına erişim sağlandı
+12/30/2022 18:03:16 Sayı Değeri: 0
+12/30/2022 18:03:16 Sayı Değeri: 1
+12/30/2022 18:03:16 Sayı Değeri: 2
+12/30/2022 18:03:16 Sayı Değeri: 3
+12/30/2022 18:03:16 Sayı Değeri: 4
+12/30/2022 18:03:16  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 18:03:16 HTTP "GET" "/" responded 200 in 72.0674 ms
+12/30/2022 18:03:17 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 18:03:17 Home/Privacy sayfasındasın!
+12/30/2022 18:03:17 HTTP "GET" "/Home/Privacy" responded 200 in 8.1805 ms
+12/30/2022 18:04:58 Proje Çalıştırıldı
+12/30/2022 18:05:00 Home/Index sayfasına erişim sağlandı
+12/30/2022 18:05:00 Sayı Değeri: 0
+12/30/2022 18:05:00 Sayı Değeri: 1
+12/30/2022 18:05:00 Sayı Değeri: 2
+12/30/2022 18:05:00 Sayı Değeri: 3
+12/30/2022 18:05:00 Sayı Değeri: 4
+12/30/2022 18:05:01  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 18:05:01 HTTP "GET" "/" responded 200 in 593.3357 ms
+12/30/2022 18:05:05 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 18:05:05 Home/Privacy sayfasındasın!
+12/30/2022 18:05:05 HTTP "GET" "/Home/Privacy" responded 200 in 57.4490 ms
+12/30/2022 18:05:15 Home/Index sayfasına erişim sağlandı
+12/30/2022 18:05:15 Sayı Değeri: 0
+12/30/2022 18:05:15 Sayı Değeri: 1
+12/30/2022 18:05:15 Sayı Değeri: 2
+12/30/2022 18:05:15 Sayı Değeri: 3
+12/30/2022 18:05:15 Sayı Değeri: 4
+12/30/2022 18:05:15  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 18:05:15 HTTP "GET" "/Home/Index" responded 200 in 71.8384 ms
+12/30/2022 18:05:19 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 18:05:19 Home/Privacy sayfasındasın!
+12/30/2022 18:05:19 HTTP "GET" "/Home/Privacy" responded 200 in 9.8174 ms
+12/30/2022 18:14:58 Proje Çalıştırıldı
+12/30/2022 18:15:00 Home/Index sayfasına erişim sağlandı
+12/30/2022 18:15:00 Sayı Değeri: 0
+12/30/2022 18:15:01 Sayı Değeri: 1
+12/30/2022 18:15:01 Sayı Değeri: 2
+12/30/2022 18:15:01 Sayı Değeri: 3
+12/30/2022 18:15:01 Sayı Değeri: 4
+12/30/2022 18:15:01  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 18:15:01 HTTP "GET" "/" responded 200 in 738.8697 ms
+12/30/2022 18:15:09 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 18:15:09 Home/Privacy sayfasındasın!
+12/30/2022 18:15:09 HTTP "GET" "/Home/Privacy" responded 200 in 42.3403 ms
+12/30/2022 18:15:18 Home/Index sayfasına erişim sağlandı
+12/30/2022 18:15:18 Sayı Değeri: 0
+12/30/2022 18:15:18 Sayı Değeri: 1
+12/30/2022 18:15:18 Sayı Değeri: 2
+12/30/2022 18:15:18 Sayı Değeri: 3
+12/30/2022 18:15:18 Sayı Değeri: 4
+12/30/2022 18:15:18  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 18:15:18 HTTP "GET" "/" responded 200 in 84.8425 ms
+12/30/2022 18:15:19 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 18:15:19 Home/Privacy sayfasındasın!
+12/30/2022 18:15:19 HTTP "GET" "/Home/Privacy" responded 200 in 13.6512 ms
+12/30/2022 19:26:31 Proje Çalıştırıldı
+12/30/2022 19:26:36 Home/Index sayfasına erişim sağlandı
+12/30/2022 19:26:36 Sayı Değeri: 0
+12/30/2022 19:26:36 Sayı Değeri: 1
+12/30/2022 19:26:36 Sayı Değeri: 2
+12/30/2022 19:26:36 Sayı Değeri: 3
+12/30/2022 19:26:36 Sayı Değeri: 4
+12/30/2022 19:26:37  Hatayı yakaladık! 
+System.Exception: Eşitlik Sağlandı
+   at LoggingProject.Controllers.HomeController.Index() in C:\Users\serap\OneDrive\Desktop\LoggingProject\LoggingProject\Controllers\HomeController.cs:line 32
+12/30/2022 19:26:37 HTTP "GET" "/" responded 200 in 1100.4910 ms
+12/30/2022 19:26:40 Kullanıcı hatası: User { UserId: 1, Name: " Marty", Surname: "McFly", Age: "30", Description: "Geleceğe Dönüş" }
+12/30/2022 19:26:41 Home/Privacy sayfasındasın!
+12/30/2022 19:26:43 HTTP "GET" "/Home/Privacy" responded 200 in 2842.8858 ms
